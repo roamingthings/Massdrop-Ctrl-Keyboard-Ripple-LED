@@ -18,7 +18,7 @@
  tmk_core/common/command.h tmk_core/common/sendchar.h \
  tmk_core/common/eeconfig.h tmk_core/common/backlight.h \
  tmk_core/common/action_layer.h tmk_core/common/action.h \
- tmk_core/common/bootmagic.h tmk_core/common/mousekey.h
+ tmk_core/common/bootmagic.h
 
 keyboards/massdrop/ctrl/config.h:
 
@@ -95,5 +95,3 @@ tmk_core/common/action_layer.h:
 tmk_core/common/action.h:
 
 tmk_core/common/bootmagic.h:
-
-tmk_core/common/mousekey.h:
